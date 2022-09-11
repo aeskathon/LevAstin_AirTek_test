@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevAstin_AirTek_test", "LevAstin_AirTek_test\LevAstin_AirTek_test.csproj", "{182A2D65-E779-4EEB-84F4-97CB23FC6C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182A2D65-E779-4EEB-84F4-97CB23FC6C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182A2D65-E779-4EEB-84F4-97CB23FC6C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182A2D65-E779-4EEB-84F4-97CB23FC6C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182A2D65-E779-4EEB-84F4-97CB23FC6C48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70BD584F-935A-42DB-8C56-8C3460EA65D7}
+	EndGlobalSection
+EndGlobal
